@@ -1,0 +1,67 @@
+body {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.btn {
+  
+  margin: 0;
+  
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 4px;
+  
+  padding: 6px 12px;
+    
+  cursor: pointer;
+  display: inline-block;
+
+  
+  text-align: center;
+  text-decoration: none;
+  
+  
+  font-size: 14px;
+  font-weight: 400;  
+}
+
+.btn-default {
+  color: #333;
+  border-color: #ccc;
+  background-color: #fff;
+  background-image:linear-gradient(to bottom,#fff 0,#e0e0e0 100%);
+  background-repeat: repeat-x;
+}
+
+.btn-primary {
+  color: #fff;
+  border-color: #ccc;
+  background-color: #337ab7;
+  background-image: linear-gradient(to bottom,#337ab7 0,#265a88 100%);
+  background-repeat: repeat-x;
+}
+
+.btn-warning {
+  color: #fff;
+  border-color: #ccc;
+  background-color: #f0ad4e;
+  background-image: linear-gradient(to bottom,#f0ad4e 0,#eb9316 100%);
+  background-repeat: repeat-x;
+}
+
+.btn-info {
+  color: #fff;
+  border-color: #ccc;
+  background-color: #fff;
+  background-image: linear-gradient(to bottom,#5bc0de 0,#2aabd2 100%);
+  background-repeat: repeat-x;
+}
+
+.btn-danger {
+  color: #fff;
+  border-color: #ccc;
+  background-color: #b92c28;
+  background-image: linear-gradient(to bottom,#d9534f 0,#c12e2a 100%);
+  background-repeat: repeat-x;
+}
+
+
