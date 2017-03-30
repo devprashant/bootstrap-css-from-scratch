@@ -1,0 +1,1 @@
+in this changing width changes behaviour of columns
