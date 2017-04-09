@@ -1,0 +1,33 @@
+body {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+a {
+  text-decoration:none;
+  color: inherit;
+  display: block;
+}
+
+li {
+  margin: 11px;
+  padding-left: 8px;
+}
+
+ul {  
+  border: solid;
+  border-width: thin;
+  border-radius: 4px;
+  border-color: rgba(0,0,0,0.15);
+  list-style: none;  
+  
+  padding: 5px 0;
+    
+  display: inline-block;
+  
+  min-width: 160px;
+  
+  font-size: 14px;
+  
+  background-color: #fff;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.175);  
+}
